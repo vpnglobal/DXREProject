@@ -1,0 +1,7 @@
+Assertion error occured
+assert 'Network Monitor' == 'Network onitor'
+  - Network onitor
+  + Network Monitor
+  ?         +
+Test Completed successfully 
+Test completed
